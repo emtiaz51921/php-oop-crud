@@ -1,0 +1,18 @@
+{
+    "name": "shamimimtiaz/php-oop-crud",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Imtiaz Shamim",
+            "email": "emtiaz51921@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Core\\":"Core/",
+            "App\\":"App/"
+        }
+    }
+}
